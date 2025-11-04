@@ -1,0 +1,15 @@
+school_management_service\school\model\Department.class
+school_management_service\school\model\Employee.class
+school_management_service\school\repository\DepartmentRepository.class
+school_management_service\school\service\EmployeeService.class
+school_management_service\school\model\User.class
+school_management_service\school\controller\DepartmentController.class
+school_management_service\school\controller\EmployeeController.class
+school_management_service\school\repository\EmployeeRepository.class
+school_management_service\school\service\DepartmentService.class
+school_management_service\school\SchoolApplication.class
+school_management_service\school\contract\DepartmentEmployeeCountDto.class
+school_management_service\school\model\Address.class
+ksmart_school\data_collection\config\ModelMapperConfig.class
+school_management_service\school\model\Student.class
+school_management_service\school\contract\EmployeeResponseDto.class
